@@ -1,0 +1,38 @@
+img{
+	width: 100%;
+}
+.nav-bar{
+	background-color: #DC8601;
+}
+.nav-bar ul{
+	list-style: none;
+	margin-bottom: 0px;
+}
+.nav-bar ul li{
+	display: inline-block;
+	margin-bottom: 0px;
+	margin-left: -3.8px;
+}
+.nav-bar ul li a{
+	padding: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	transition: all .5s;
+}
+.nav-bar ul li a:hover{
+	background-color: #E2AA53;
+}
+.logo{
+	width: 150px;
+}
+.logo img{
+	width: 100px;
+	position: absolute;
+	top: 0px;
+	background: white;
+	border: 1px dotted black;
+	border-top: none;
+}
