@@ -14,7 +14,7 @@ img{
 
 /* Nav Bar */
 .nav-bar{
-	background-color: #DC8601;
+	background-color: orange;
 }
 .nav-bar ul{
 	list-style: none;
@@ -37,7 +37,7 @@ img{
 	transition: all .5s;
 }
 .nav-bar ul li a:hover{
-	background-color: #E2AA53;
+	background-color: #E28D0A;
 }
 .logo{
 	width: 150px;
