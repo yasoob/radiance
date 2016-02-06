@@ -15,12 +15,13 @@
 
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  <link href="css/railway-font.css" rel="stylesheet" type="text/css">
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/jquery.bxslider.css">
   <link rel="stylesheet" href="css/custom.css">
 
   <!-- Favicon
@@ -32,7 +33,7 @@
   <nav class="nav-bar">
     <div class="container">
       <ul>
-        <li class="logo"><a href="#"><img src="images/Radiance.png"/></a></li>
+        <li class="logo"><a href="#"><img src="images/Radiance.png"/> </a></li>
         <li><a href="#">Home</a></li>
         <li><a href="#">Contact</a></li>
         <li><a href="#">About Us</a></li>
@@ -40,18 +41,21 @@
     </div>
   </nav>
   
-  <div class="container">
-    <div class="row">
-      <div class="twelve columns" style="">
-        <ul class="bxslider">
-          <li><img src="/images/pic1.jpg" /></li>
-          <li><img src="/images/pic2.jpg" /></li>
-          <li><img src="/images/pic3.jpg" /></li>
-          <li><img src="/images/pic4.jpg" /></li>
-        </ul>
+  <section class="hero-slider">
+    <div class="container">
+      <div class="row">
+        <div class="twelve columns" style="">
+          <ul class="bxslider">
+            <li><img src="https://placeholdit.imgix.net/~text?txtsize=113&txt=1351%C3%97500&w=1351&h=500&fm=png" /></li>
+            <li><img src="https://placeholdit.imgix.net/~text?txtsize=113&txt=1351%C3%97500&w=1351&h=500&fm=png" /></li>
+            <li><img src="https://placeholdit.imgix.net/~text?txtsize=113&txt=1351%C3%97500&w=1351&h=500&fm=png" /></li>
+            <li><img src="https://placeholdit.imgix.net/~text?txtsize=113&txt=1351%C3%97500&w=1351&h=500&fm=png" /></li>
+            <li><img src="https://placeholdit.imgix.net/~text?txtsize=113&txt=1351%C3%97500&w=1351&h=500&fm=png" /></li>
+          </ul>
+        </div>
       </div>
     </div>
-  </div>
+  </section>
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -90,6 +94,16 @@
     </div>
   </div>
 
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery.bxslider.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.bxslider').bxSlider({
+        easing: 'ease-in',
+        auto: true
+      });
+    });
+  </script>
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 </body>

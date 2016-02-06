@@ -1,6 +1,18 @@
+/* 
+
+1. Global
+2. Nav Bar 
+3. Hero Slider
+
+*/
+
+
+/* Global */
 img{
 	width: 100%;
 }
+
+/* Nav Bar */
 .nav-bar{
 	background-color: #DC8601;
 }
@@ -49,8 +61,27 @@ img{
 	max-width: 100%;
 	padding: 0;
 }
-
-
+.bx-wrapper .bx-controls-direction a{
+	opacity: 0;
+	transition: all 1s;
+}
+.hero-slider:hover .bx-wrapper .bx-controls-direction a{
+	opacity: 1;
+}
+.bx-wrapper .bx-prev{
+	left: 30px;
+}
+.bx-wrapper .bx-next{
+	right: 30px;
+}
+.bx-wrapper .bx-prev:hover{
+	background-position: 0 -32px;
+	left: 20px;
+}
+.bx-wrapper .bx-next:hover{
+	background-position: -43px -32px;
+	right: 20px;
+}
 .bx-wrapper .bx-viewport{
 	border: none;
 }
