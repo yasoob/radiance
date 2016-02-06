@@ -170,7 +170,7 @@ img{
 }
 .stories-item{
 	padding: 10px;
-	border: 1px solid silver;
+	/*border: 1px solid silver;*/
 	background: white;
 }
 .stories-item h5{
@@ -194,4 +194,48 @@ img{
     margin-right: -4%;
     padding: 10px;
     border: 10px solid #DA8300;
+}
+
+
+/* Footer */
+footer nav.footer-nav{
+	margin-top: 50px;
+	background-color: rgb(249, 162, 31);
+    padding-top: 20px;
+	color: white;
+}
+footer nav.footer-nav h6{
+	font-weight: bold;
+}
+footer nav.footer-nav ul{
+	list-style: none;
+}
+footer nav.footer-nav ul li{
+	margin-bottom: 5px;
+}
+footer nav.footer-nav a{
+	text-decoration: none;
+	color: white;
+	transition: all .5s;
+}
+footer nav.footer-nav ul li a:hover{
+	color:	silver;
+}
+div.footer-bottom{
+	background: #DA8300;
+}
+div.footer-bottom .row{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+div.footer-bottom p{
+	margin-bottom: 0px;
+	color: white;
+}
+div.footer-bottom img{
+	display: inline-block;
+	width: 40px;
+	position: absolute;
+	left: -57px;
+	top: 21px;
 }
