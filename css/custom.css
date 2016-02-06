@@ -12,13 +12,15 @@ img{
 	display: inline-block;
 	margin-bottom: 0px;
 	margin-left: -3.8px;
+	margin-top: -8px;
 }
 .nav-bar ul li a{
 	padding: 20px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 25px;
+	padding-bottom: 25px;
 	display: inline-block;
 	color: white;
+	font-weight: bold;
 	text-decoration: none;
 	transition: all .5s;
 }
@@ -28,6 +30,9 @@ img{
 .logo{
 	width: 150px;
 }
+.logo a:hover{
+	background-color: transparent !important;
+}
 .logo img{
 	width: 100px;
 	position: absolute;
@@ -35,4 +40,17 @@ img{
 	background: white;
 	border: 1px dotted black;
 	border-top: none;
+	z-index: 9;
+}
+
+/* Hero Slider */
+.hero-slider .container{
+	width: 100%;
+	max-width: 100%;
+	padding: 0;
+}
+
+
+.bx-wrapper .bx-viewport{
+	border: none;
 }
