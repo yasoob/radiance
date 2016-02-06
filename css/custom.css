@@ -165,7 +165,6 @@ img{
 /* Stories Section */
 .stories .container{
 	max-width: 85%;
-	background: #DA8300;
 	position: relative;
 	margin-top: 70px;
 }
@@ -173,6 +172,12 @@ img{
 	padding: 10px;
 	border: 1px solid silver;
 	background: white;
+}
+.stories-item h5{
+	font-weight: bold;
+	color: #807C7C;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 .stories .section-header{
 	padding: 10px;
@@ -185,8 +190,8 @@ img{
     background: #DA8300;
 }
 .stories .container .row{
-	background: #DA8300;
-    margin-left: -4%;
+	margin-left: -4%;
     margin-right: -4%;
     padding: 10px;
+    border: 10px solid #DA8300;
 }
