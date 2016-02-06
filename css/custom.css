@@ -179,6 +179,14 @@ img{
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
+.stories-item h5 a{
+	text-decoration: none;
+	color: #807C7C;
+	transition: all .5s;
+}
+.stories-item h5 a:hover{
+	color: #A5A3A3;
+}
 .stories .section-header{
 	padding: 10px;
     color: white;
