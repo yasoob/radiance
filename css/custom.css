@@ -153,7 +153,7 @@ img{
 	background-color: #F34A09;
 }
 .call-to-action .take-action:hover{
-	background-color: #A27020;
+	background-color: #F34A09;
 }
 .call-to-action .donate{
     background-color: #EC2C2C;
@@ -212,6 +212,9 @@ img{
     top: -50px;
     left: -43px;
     background: #DA8300;
+}
+.stories .section-header i{
+	margin-right: 10px;
 }
 .stories .container .row{
 	margin-left: -4%;
