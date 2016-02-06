@@ -14,7 +14,7 @@ img{
 
 /* Nav Bar */
 .nav-bar{
-	background-color: orange;
+	background-color: #DD8700;
 }
 .nav-bar ul{
 	list-style: none;
@@ -53,6 +53,7 @@ img{
 	border: 1px dotted black;
 	border-top: none;
 	z-index: 9;
+    box-shadow: 1px 1px 6px -1px rgb(221, 135, 0);
 }
 
 /* Hero Slider */
@@ -117,8 +118,11 @@ img{
 	display: inline-block;
 	text-decoration: none;
 	width: 100%;
+	font-size: 20px; 
 }
-.call-to-action .container a{
+.call-to-action .container a i{
+	margin-right: 15px;
+	font-size: 25px;
 }
 .call-to-action a{
 	color: white;
@@ -152,12 +156,12 @@ img{
 	border-left-color: #DA1B1B;
 }
 .call-to-action a.donate:after{
-    border: 31px solid transparent;
+    border: 36px solid transparent;
     border-left-color: #EC2C2C;
     content: " ";
-    height: 2px;
+    height: 0px;
     position: absolute;
-    right: -87px;
+    right: -97px;
     top: 0px;
     width: 0;
 }
@@ -170,7 +174,6 @@ img{
 }
 .stories-item{
 	padding: 10px;
-	/*border: 1px solid silver;*/
 	background: white;
 }
 .stories-item h5{
