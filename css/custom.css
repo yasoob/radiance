@@ -69,7 +69,7 @@ img{
 }
 .bx-wrapper .bx-controls-direction a{
 	opacity: 0;
-	transition: all 1s;
+	transition: all .5s;
 }
 .hero-slider:hover .bx-wrapper .bx-controls-direction a{
 	opacity: 1;
