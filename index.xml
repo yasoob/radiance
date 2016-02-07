@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2016 00:57:31 +0500</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://replace-this-with-your-hugo-site.com/contact/</link>
+      <pubDate>Mon, 08 Feb 2016 00:57:31 +0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/contact/</guid>
+      <description>&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13595.824707651727!2d74.37835682952311!3d31.580249589064643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39190483e58107d9%3A0xc23abe6ccc7e2462!2sLahore%2C+Pakistan!5e0!3m2!1sen!2s!4v1454875394782&#34; width=&#34;100%&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;form class=&#34;contact-form&#34;&gt;  
+  &lt;div class=&#34;&#34;&gt;
+    &lt;div class=&#34;six columns&#34;&gt;
+      &lt;label for=&#34;exampleEmailInput&#34;&gt;Your email&lt;/label&gt;
+      &lt;input class=&#34;u-full-width&#34; type=&#34;email&#34; placeholder=&#34;test@mailbox.com&#34; id=&#34;exampleEmailInput&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;six columns&#34;&gt;
+      &lt;label for=&#34;exampleRecipientInput&#34;&gt;Reason for contacting&lt;/label&gt;
+      &lt;select class=&#34;u-full-width&#34; id=&#34;exampleRecipientInput&#34;&gt;
+        &lt;option value=&#34;Option 1&#34;&gt;Questions&lt;/option&gt;
+        &lt;option value=&#34;Option 2&#34;&gt;Admiration&lt;/option&gt;
+        &lt;option value=&#34;Option 3&#34;&gt;Can I get your number?&lt;/option&gt;
+      &lt;/select&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;label for=&#34;exampleMessage&#34;&gt;Message&lt;/label&gt;
+  &lt;textarea class=&#34;u-full-width&#34; placeholder=&#34;Hi Dave …&#34; id=&#34;exampleMessage&#34;&gt;&lt;/textarea&gt;
+  &lt;input class=&#34;button-primary&#34; type=&#34;submit&#34; value=&#34;Submit&#34;&gt;
+&lt;/form&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://replace-this-with-your-hugo-site.com/about/</link>
+      <pubDate>Mon, 08 Feb 2016 00:16:26 +0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
+      <description>&lt;p&gt;Hey There Folks!&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Latest Book-drive</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/how-are-you/</link>
+      <pubDate>Mon, 08 Feb 2016 00:00:25 +0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/how-are-you/</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>We Stand With Syria</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/about-us/</link>
+      <pubDate>Sun, 07 Feb 2016 23:58:32 +0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/about-us/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;How are you?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Charsadda Attack</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/Welcome/</link>
+      <pubDate>Sun, 07 Feb 2016 17:18:25 +0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/Welcome/</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

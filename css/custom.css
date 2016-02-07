@@ -240,6 +240,9 @@ img{
 .article{
 	margin-top: 10em;
 }
+.article p{
+	font-size: 17px;
+}
 .article .article-header{
 	position: relative;
 }
@@ -282,7 +285,13 @@ img{
 }
 .article .article-body{
 	margin-top: 20px;
-} 
+}
+.page-body .contact-form{
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 3em;
+	margin-bottom: 2em;
+}
 
 
 /* Footer */
