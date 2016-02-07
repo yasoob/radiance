@@ -15,6 +15,8 @@ img{
 /* Nav Bar */
 .nav-bar{
 	background-color: #DD8700;
+	box-shadow: 0px 12px 12px 13px rgba(35, 32, 22, 0.62);
+    margin-bottom: 2px;
 }
 .nav-bar ul{
 	list-style: none;
@@ -140,8 +142,9 @@ img{
 .call-to-action a{
 	color: white;
 	font-weight: bold;
-	border-left: 5px solid white;
+	margin-left: 5px;
 	transition: all .5s;
+    box-shadow: -3px 3px 0px 0px rgb(202, 202, 208);
 }
 .call-to-action .explore{
 	background-color: #DD8700;
@@ -188,6 +191,12 @@ img{
 .stories-item{
 	padding: 10px;
 	background: white;
+	box-shadow: -7px 7px 0px -3px rgb(202, 202, 208);
+	border: 1px solid grey;
+	transition: all .5s;
+}
+.stories-item:hover{
+	box-shadow: -10px 10px 0px -3px rgb(202, 202, 208);
 }
 .stories-item h5{
 	font-weight: bold;
@@ -221,6 +230,7 @@ img{
     margin-right: -4%;
     padding: 10px;
     border: 10px solid #DA8300;
+    box-shadow: -10px 9px 0px -4px rgb(224, 165, 76);
 }
 
 
