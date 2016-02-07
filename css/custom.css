@@ -136,8 +136,9 @@ img{
 	font-size: 20px; 
 }
 .call-to-action .container a i{
-	margin-right: 15px;
+	margin-right: 25px;
 	font-size: 25px;
+    transform: scale(1.5,1.5);
 }
 .call-to-action a{
 	color: white;
@@ -259,6 +260,22 @@ footer nav.footer-nav a{
 footer nav.footer-nav ul li a:hover{
 	color:	silver;
 }
+footer nav.footer-nav .news h6{
+	margin-bottom: 10px;
+}
+footer nav.footer-nav .news li:before { 
+    content: "";
+    border-color: transparent white;
+    border-style: solid;
+    border-width: 0.35em 0 0.35em 0.45em;
+    display: block;
+    height: 0;
+    width: 0;
+    left: -1em;
+    top: 1.1em;
+    position: relative;
+}
+
 div.footer-bottom{
 	background: #DA8300;
 }
