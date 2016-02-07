@@ -20,7 +20,7 @@ img{
 .nav-bar{
 	background-color: #DD8700;
 	box-shadow: 0px 0px 6px 0px rgba(35, 32, 22, 0.62);
-    margin-bottom: 2px;
+    margin-bottom: 1px;
 }
 .nav-bar ul{
 	list-style: none;
